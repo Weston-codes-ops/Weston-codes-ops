@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋🏿. Welcome to my digital space
 
-<!--
-**Weston-codes-ops/Weston-codes-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** About me
+<p>I am a fullstack web & Game Developer. I have a passion creating and contributing to systems (ERP systems) that positively impact business operations and making user friendly web-apps</p>
 
 Here are some ideas to get you started:
 
