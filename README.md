@@ -32,6 +32,27 @@
   </div>
 </section>
 
+<section>
+    <h2>Tech stack</h2>
+  <div>
+    <img src = "" alt="Tool 1"/>
+    <img src = "" alt="Tool 2"/>
+    <img src = "" alt="Tool 3"/>
+    <img src = "" alt="Tool 4"/>
+  </div>
+</section>
+
+<section>
+  <aside><h5>Open to contribute / collaborate on projects for these causes</h5>
+  <ul>
+    <li>Open source</li>
+    <li>.....................</li>
+  </ul>
+  </aside>
+  <div>
+    <p>Karibuni sana. Welcome one and all</p>
+  </div>
+</section>
 
 
 
