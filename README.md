@@ -22,15 +22,15 @@
   </p>
 </section>
 
-<section>
-  <aside><p>Project</p></aside>
+<div style = "display:flex; flex-wrap: wrap; gap: 10px">
+  <div  style="flex: 1; min-width: 200px; border: 1px solid #ccc; padding: 10px;"><p>Project</p></div>
   <div>
     <nav>
       <a href = "">Ecommerce website</a>
       <a href = "">Java Backend engineer Journey</a>
     </nav>
   </div>
-</section>
+</div>
 
 <section>
     <h2>Tech stack</h2>
