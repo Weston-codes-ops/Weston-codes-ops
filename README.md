@@ -9,7 +9,7 @@
 
 <section>
   <h2>About me</h2>
-  <p>I am a full-stack (Backend First) Engineer equipped with knowledge and expertise of enterprise systems.
+  <p>I am a full-stack (Backend First) Engineer equipped with knowledge and expertise in enterprise systems.
     I am passionate about creating, building, and scaling enterprise-grade systems. I understand what it takes to architect services that are not just functional but scalable, maintainable and production-ready. I think about the system, not just the feature.</p>
   <p><h5>Here's what I can build :</h5>
   <hr>
@@ -23,8 +23,9 @@
 </section>
 
 <div style = "display:flex; flex-wrap: wrap; gap: 10px">
-  <div  style="flex: 1; min-width: 200px; border: 1px solid #ccc; padding: 10px;"><p>Project</p></div>
-  <div>
+  <div  style="flex: 1; min-width: 200px; border: 1px solid #ccc; padding: 10px;">
+    <h2>Projects</h2></div>
+  <div style = "flex: 1; min-width: 200px; border: 1px solid #ccc; padding: 10px;">
     <nav>
       <a href = "">Ecommerce website</a>
       <a href = "">Java Backend engineer Journey</a>
