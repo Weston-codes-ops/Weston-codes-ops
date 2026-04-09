@@ -33,8 +33,8 @@
 
 |  | Project | Tech |
 |---|---------|------|
-| 01 | [E-Commerce Website](https://github.com/yourlink) | Spring Boot · PostgreSQL · React |
-| 02 | [Indie Game](https://github.com/yourlink) | Java · LibGDX |
+| 01 | [E-Commerce Website](https://github.com/Weston-codes-ops/SokoOnline) | Spring Boot · PostgreSQL · React |
+| 02 | [Indie Game](https://github.com/yourlink) | Java · LibGDX |  || Coming soon
 | 03 | [Commercial Logistics Tracking System](https://github.com/yourlink) | Spring Boot · PostgreSQL · REST API |
 
 <section>
